@@ -19,7 +19,12 @@ void Excersize_2_3(int solution, int answer)
 	printf("서울에서 부산까지의 KTX 노선의 거리는 약 %d km이다\n", distance);
 	printf("오전 %d 시에 서울역을 출발한 KTX가 %d 시 %d 분 부산역에 도착하였다.\n\n", T0, hour, min);
 
-	printf("열차의 평균속력은 몇 m/s인가?\n");
+	printf("열차의 평균속력은 몇 m/s인가?\n\n");
+
+	printf("평균속력 구하는 공식을 쓰는 문제이다\n");
+	printf("평균속력:V = T / (V처음 + V나중) 공식 이용\n");
+
+	
 
 
 
