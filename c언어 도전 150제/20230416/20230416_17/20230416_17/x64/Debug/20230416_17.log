@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(13,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(16,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(19,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(24,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(24,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(24,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(24,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'int'입니다.
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(25,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(25,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(25,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\20230416_17\main.cpp(25,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'int'입니다.
+  20230416_17.vcxproj -> D:\202315005_kimtaemin\c언어 도전 150제\20230416\20230416_17\x64\Debug\20230416_17.exe
