@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kimta\OneDrive\바탕 화면\20230710_Array\Araay_2\Araay_2\main.cpp(1,4): error C2014: 전처리기 명령은 공백 아닌 문자로 시작해야 합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\sal.h(2361,1): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\sal.h(2361,8): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
