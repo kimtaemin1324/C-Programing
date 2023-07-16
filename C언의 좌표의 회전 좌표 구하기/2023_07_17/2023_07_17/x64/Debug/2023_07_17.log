@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\kimta\OneDrive\바탕 화면\C언의 좌표의 회전 좌표 구하기\2023_07_17\2023_07_17\main.cpp(22,11): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\kimta\OneDrive\바탕 화면\C언의 좌표의 회전 좌표 구하기\2023_07_17\2023_07_17\main.cpp(22,11): message : 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+C:\Users\kimta\OneDrive\바탕 화면\C언의 좌표의 회전 좌표 구하기\2023_07_17\2023_07_17\main.cpp(25,11): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\kimta\OneDrive\바탕 화면\C언의 좌표의 회전 좌표 구하기\2023_07_17\2023_07_17\main.cpp(25,11): message : 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+C:\Users\kimta\OneDrive\바탕 화면\C언의 좌표의 회전 좌표 구하기\2023_07_17\2023_07_17\main.cpp(28,11): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\kimta\OneDrive\바탕 화면\C언의 좌표의 회전 좌표 구하기\2023_07_17\2023_07_17\main.cpp(28,11): message : 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  2023_07_17.vcxproj -> C:\Users\kimta\OneDrive\바탕 화면\C언의 좌표의 회전 좌표 구하기\2023_07_17\x64\Debug\2023_07_17.exe
