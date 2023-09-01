@@ -1,0 +1,4 @@
+﻿  map.cpp
+C:\Users\user\Desktop\C언어\20230901\20230901\map.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\C언어\20230901\20230901\map.cpp(11,6): warning C4101: 'ke' :참조되지 않은 지역 변수입니다.
+  20230901.vcxproj -> C:\Users\user\Desktop\C언어\20230901\x64\Debug\20230901.exe
