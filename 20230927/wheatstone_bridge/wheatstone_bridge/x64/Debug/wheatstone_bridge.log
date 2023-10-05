@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\user\Desktop\20230927\wheatstone_bridge\wheatstone_bridge\main.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\20230927\wheatstone_bridge\wheatstone_bridge\main.cpp(7,46): warning C4101: 'Vad' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\20230927\wheatstone_bridge\wheatstone_bridge\main.cpp(7,41): warning C4101: 'Vab' :참조되지 않은 지역 변수입니다.
+  wheatstone_bridge.vcxproj -> C:\Users\user\Desktop\20230927\wheatstone_bridge\x64\Debug\wheatstone_bridge.exe
