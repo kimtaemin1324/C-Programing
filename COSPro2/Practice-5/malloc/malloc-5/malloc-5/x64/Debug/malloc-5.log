@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\user\OneDrive - 한라대학교\바탕 화면\malloc\malloc-5\malloc-5\main.cpp(6,15): warning C4101: 'newValue' :참조되지 않은 지역 변수입니다.
+  malloc-5.vcxproj -> C:\Users\user\OneDrive - 한라대학교\바탕 화면\malloc\malloc-5\x64\Debug\malloc-5.exe
