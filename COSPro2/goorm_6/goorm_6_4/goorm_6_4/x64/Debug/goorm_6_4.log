@@ -1,0 +1,52 @@
+﻿  main.cpp
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(11,10): error C3861: 'strcmp': 식별자를 찾을 수 없습니다.
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(12,15): error C3861: 'strcmp': 식별자를 찾을 수 없습니다.
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(13,15): error C3861: 'strcmp': 식별자를 찾을 수 없습니다.
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,28): error C2440: '초기화 중': 'const char [5]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,28):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,36): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,36):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,43): error C2440: '초기화 중': 'const char [4]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,43):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,50): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,50):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,57): error C2440: '초기화 중': 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,57):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,66): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(31,66):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,28): error C2440: '초기화 중': 'const char [5]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,28):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,36): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,36):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,43): error C2440: '초기화 중': 'const char [5]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,43):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,51): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,51):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,58): error C2440: '초기화 중': 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,58):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,67): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\user\Desktop\goorm_6\goorm_6_4\goorm_6_4\main.cpp(38,67):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
