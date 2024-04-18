@@ -1,5 +1,6 @@
-#ifndef CALCULATOR_H
-#define CALCULATOR_H
+#include <iostream>
+#include <string>
+using namespace std;
 
 class Calculator {
 private:
@@ -13,5 +14,3 @@ public:
     void calculate();
     void printResult();
 };
-
-#endif
