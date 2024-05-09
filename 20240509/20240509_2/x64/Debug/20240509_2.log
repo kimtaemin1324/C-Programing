@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Desktop\202315005\20240509\20240509_2\main.cpp(8,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\202315005\20240509\20240509_2\main.cpp(15,10): warning C4129: ' ': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  20240509_2.vcxproj -> C:\Users\user\Desktop\202315005\20240509\20240509_2\x64\Debug\20240509_2.exe
